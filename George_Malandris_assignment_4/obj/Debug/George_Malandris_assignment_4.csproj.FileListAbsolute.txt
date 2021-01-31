@@ -1,0 +1,7 @@
+C:\Users\georg\source\repos\George_Malandris_assignment_4\George_Malandris_assignment_4\bin\Debug\George_Malandris_assignment_4.exe.config
+C:\Users\georg\source\repos\George_Malandris_assignment_4\George_Malandris_assignment_4\bin\Debug\George_Malandris_assignment_4.exe
+C:\Users\georg\source\repos\George_Malandris_assignment_4\George_Malandris_assignment_4\bin\Debug\George_Malandris_assignment_4.pdb
+C:\Users\georg\source\repos\George_Malandris_assignment_4\George_Malandris_assignment_4\obj\Debug\George_Malandris_assignment_4.csprojAssemblyReference.cache
+C:\Users\georg\source\repos\George_Malandris_assignment_4\George_Malandris_assignment_4\obj\Debug\George_Malandris_assignment_4.csproj.CoreCompileInputs.cache
+C:\Users\georg\source\repos\George_Malandris_assignment_4\George_Malandris_assignment_4\obj\Debug\George_Malandris_assignment_4.exe
+C:\Users\georg\source\repos\George_Malandris_assignment_4\George_Malandris_assignment_4\obj\Debug\George_Malandris_assignment_4.pdb
